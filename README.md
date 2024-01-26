@@ -1,4 +1,4 @@
-# 8 Puzzle Solver
+# Uniformed Search 8-Puzzle Solver
 
 This repository provides a simple puzzle solver for the 8-puzzle problem. The 8-puzzle problem is a sliding puzzle commonly used for algorithmic problem-solving exercises. The goal is to arrange the tiles in the correct order with a blank tile space, typically in a 3x3 grid.
 
