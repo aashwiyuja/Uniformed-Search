@@ -3,11 +3,11 @@
 This repository provides a simple puzzle solver for the 8-puzzle problem. The 8-puzzle problem is a sliding puzzle commonly used for algorithmic problem-solving exercises. The goal is to arrange the tiles in the correct order with a blank tile space, typically in a 3x3 grid.
 
 ## Contents
-1. [Index](#index)
-2. [Node](#node)
-3. [SearchQueue](#searchqueue)
-4. [SearchTree](#searchtree)
-5. [Utils](#utils)
+1. Index
+2. Node
+3. SearchQueue
+4. SearchTree
+5. Utils
 
 ## 1. Index
 
